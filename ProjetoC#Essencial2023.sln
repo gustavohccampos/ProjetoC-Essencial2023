@@ -21,29 +21,35 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Identificadores", "Identifi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicios1", "Exercicios1\Exercicios1.csproj", "{2523CE85-F271-4155-B114-83D54EF346A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormatarSaida", "FormatarSaida\FormatarSaida.csproj", "{C3586DDE-D23F-420F-AE17-60DB40168E21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormatarSaida", "FormatarSaida\FormatarSaida.csproj", "{C3586DDE-D23F-420F-AE17-60DB40168E21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoDeTipos", "ConversaoDeTipos\ConversaoDeTipos.csproj", "{1CD35199-FD8E-404B-8D0C-881FAE92F795}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversaoDeTipos", "ConversaoDeTipos\ConversaoDeTipos.csproj", "{1CD35199-FD8E-404B-8D0C-881FAE92F795}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoDeTipos2", "ConversaoDeTipos2\ConversaoDeTipos2.csproj", "{CB475382-3A30-4E38-A38C-2A88BDB55E6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversaoDeTipos2", "ConversaoDeTipos2\ConversaoDeTipos2.csproj", "{CB475382-3A30-4E38-A38C-2A88BDB55E6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntradaDeDados", "EntradaDeDados\EntradaDeDados.csproj", "{438C5D30-4C3B-45CE-A018-74AC21B7FB85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntradaDeDados", "EntradaDeDados\EntradaDeDados.csproj", "{438C5D30-4C3B-45CE-A018-74AC21B7FB85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operadores", "Operadores\Operadores.csproj", "{EF4F3694-C077-4108-8DF3-465F58A06262}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operadores", "Operadores\Operadores.csproj", "{EF4F3694-C077-4108-8DF3-465F58A06262}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InferenciaDeTipos", "InferenciaDeTipos\InferenciaDeTipos.csproj", "{0B4D8E96-E398-4A21-BD73-FAC5B81A1E5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InferenciaDeTipos", "InferenciaDeTipos\InferenciaDeTipos.csproj", "{0B4D8E96-E398-4A21-BD73-FAC5B81A1E5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadorDeAtribuicao", "OperadorDeAtribuicao\OperadorDeAtribuicao.csproj", "{C883AFAB-98F7-4C47-9173-1158C7DD70D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadorDeAtribuicao", "OperadorDeAtribuicao\OperadorDeAtribuicao.csproj", "{C883AFAB-98F7-4C47-9173-1158C7DD70D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constante", "Constante\Constante.csproj", "{1CDAB8D6-0EDB-4B45-893C-D0EECDD61003}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constante", "Constante\Constante.csproj", "{1CDAB8D6-0EDB-4B45-893C-D0EECDD61003}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadorIncDec", "OperadorIncDec\OperadorIncDec.csproj", "{8AEB4E03-D17B-4C09-A754-14B1742495C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadorIncDec", "OperadorIncDec\OperadorIncDec.csproj", "{8AEB4E03-D17B-4C09-A754-14B1742495C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresRelacionais", "OperadoresRelacionais\OperadoresRelacionais.csproj", "{55D811AA-EFC9-45CD-BDFF-20B3AF62C938}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresRelacionais", "OperadoresRelacionais\OperadoresRelacionais.csproj", "{55D811AA-EFC9-45CD-BDFF-20B3AF62C938}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresLogicos", "OperadoresLogicos\OperadoresLogicos.csproj", "{80D4937A-46B6-4B9B-AC12-EA155653BA86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresLogicos", "OperadoresLogicos\OperadoresLogicos.csproj", "{80D4937A-46B6-4B9B-AC12-EA155653BA86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrecedenciaAssociatividade", "PrecedenciaAssociatividade\PrecedenciaAssociatividade.csproj", "{50BA317C-1400-45B4-AB9A-1323A336E71C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrecedenciaAssociatividade", "PrecedenciaAssociatividade\PrecedenciaAssociatividade.csproj", "{50BA317C-1400-45B4-AB9A-1323A336E71C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableReference", "NullableReference\NullableReference.csproj", "{9FB8713C-E756-4A3E-9945-87D2A188A60C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadorUniarioTernario", "OperadorUniarioTernario\OperadorUniarioTernario.csproj", "{FDDFCF9E-8C2B-4115-BCFE-0BECA4D0E6D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicios2", "Exercicios2\Exercicios2.csproj", "{493C34FE-87A6-436D-9CF3-C2D868F6DAB1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +141,18 @@ Global
 		{50BA317C-1400-45B4-AB9A-1323A336E71C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50BA317C-1400-45B4-AB9A-1323A336E71C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50BA317C-1400-45B4-AB9A-1323A336E71C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FB8713C-E756-4A3E-9945-87D2A188A60C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FB8713C-E756-4A3E-9945-87D2A188A60C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FB8713C-E756-4A3E-9945-87D2A188A60C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FB8713C-E756-4A3E-9945-87D2A188A60C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDDFCF9E-8C2B-4115-BCFE-0BECA4D0E6D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDDFCF9E-8C2B-4115-BCFE-0BECA4D0E6D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDDFCF9E-8C2B-4115-BCFE-0BECA4D0E6D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDDFCF9E-8C2B-4115-BCFE-0BECA4D0E6D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{493C34FE-87A6-436D-9CF3-C2D868F6DAB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{493C34FE-87A6-436D-9CF3-C2D868F6DAB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{493C34FE-87A6-436D-9CF3-C2D868F6DAB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{493C34FE-87A6-436D-9CF3-C2D868F6DAB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
