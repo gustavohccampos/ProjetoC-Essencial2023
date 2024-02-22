@@ -1,4 +1,4 @@
-Repositorio criado para treinamento realizando conforme o curso da Udemy de C#. 
+Repositorio criado para treinamento realizado conforme o curso da Udemy de C#. 
 
 Curso C# Essencial - Jose Carlos Macoratti
 
